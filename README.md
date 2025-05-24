@@ -55,7 +55,7 @@ npm start
 
 ---
 
-## 📚 Backend Dependencies
+## Backend Dependencies
 
 | Library          | Purpose                                                              |
 | ---------------- | -------------------------------------------------------------------- |
@@ -88,7 +88,7 @@ npm start
 | **yup**                        | Schema-based form validation.                           |
 | **web-vitals**                 | For measuring app performance metrics.                  |
 
-🧪 Also includes testing libraries like:
+ Also includes testing libraries like:
 
 - **@testing-library/react**
 - **@testing-library/jest-dom**
@@ -96,7 +96,7 @@ npm start
 
 ---
 
-## ✅ Features
+##  Features
 
 - Authentication using JWT
 - User creation, update, delete
